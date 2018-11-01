@@ -4,7 +4,7 @@ Open ERP System :- odoo11 Community
 Installation 
 ============
 
-	Install the Application => Apps -> Customer Search Filter (Technical Name: customer_search_filter)
+Install the Application => Apps -> Customer Search Filter (Technical Name: customer_search_filter)
 
 
 Version
@@ -22,9 +22,9 @@ Module Configuration Guideline
 Customer Search Filter Module Functionality
 ================================================
 
-	This module helps in finding a customer with respect to its mobile number, phone number, city, 
-	email and its job position.
+This module helps in finding a customer with respect to its mobile number, phone number, city, 
+email and its job position.
 
-	A customer can be selected from the the list of its matching mobile number, phone number, city, email and its job position.
+A customer can be selected from the the list of its matching mobile number, phone number, city, email and its job position.
 
-	This functionality will be applied when we want to search customer in any object.
+This functionality will be applied when we want to search customer in any object.

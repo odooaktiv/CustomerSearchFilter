@@ -18,7 +18,7 @@
                     email and its job position. This functionality
                     is used when we want to search customer in any object.
                 ''',
-    'depends': ['base', 'sale_management', 'account_invoicing', 'purchase'],
+    'depends': ['base', 'sale_management', 'account_invoicing', 'purchase', 'contacts'],
     'data': [
         'views/res_partner_views.xml',
     ],
