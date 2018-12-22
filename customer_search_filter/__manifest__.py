@@ -5,7 +5,7 @@
     'category': 'customer',
     'license': 'AGPL-3',
     'website': 'www.aktivsoftware.com',
-    'version': '11.0.1.0.0',
+    'version': '11.0.1.0.1',
     'summary': '''
                 This module helps in finding a customer with respect to its
                 mobile number, phone number, city,
@@ -18,7 +18,7 @@
                     email and its job position. This functionality
                     is used when we want to search customer in any object.
                 ''',
-    'depends': ['base', 'sale_management', 'account_invoicing', 'purchase', 'contacts'],
+    'depends': ['base'],
     'data': [
         'views/res_partner_views.xml',
     ],
