@@ -1,4 +1,4 @@
-Open ERP System :- odoo12 Community master
+Open ERP System :- odoo12 Community
 
 
 Installation 
