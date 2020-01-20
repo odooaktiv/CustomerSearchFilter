@@ -1,4 +1,4 @@
-Open ERP System :- odoo12 Community master
+Open ERP System :- odoo13 Community
 
 
 Installation 
@@ -10,7 +10,7 @@ Install the Application => Apps -> Customer Search Filter (Technical Name: custo
 Version
 ========
 
-	Odoo v12
+	Odoo v13
 
 
 Module Configuration Guideline
