@@ -5,7 +5,7 @@
     'category': 'customer',
     'license': 'AGPL-3',
     'website': 'www.aktivsoftware.com',
-    'version': '13.0.1.0.0',
+    'version': '13.0.1.0.1',
     'summary': '''
                 This module helps in finding a customer with respect to its
                 mobile number, phone number, city,
