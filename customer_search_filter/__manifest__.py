@@ -2,7 +2,7 @@
 {
     'name': 'Customer Search Filter',
     'author': 'Aktiv Software',
-    'category': 'customer',
+    'category': 'Sales',
     'license': 'AGPL-3',
     'website': 'www.aktivsoftware.com',
     'version': '11.0.1.0.1',
