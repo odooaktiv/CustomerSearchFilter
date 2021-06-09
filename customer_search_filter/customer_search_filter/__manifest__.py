@@ -2,10 +2,10 @@
 {
     'name': 'Customer Search Filter',
     'author': 'Aktiv Software',
-    'category': 'customer',
+    'category': 'Sales',
     'license': 'AGPL-3',
     'website': 'www.aktivsoftware.com',
-    'version': '12.0.1.0.1',
+    'version': '14.0.1.0.1',
     'summary': '''
                 This module helps in finding a customer with respect to its
                 mobile number, phone number, city,
